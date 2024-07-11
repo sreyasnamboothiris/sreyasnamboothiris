@@ -7,7 +7,7 @@ I'm Sreyas, a passionate software developer with a focus on web technologies and
 - 🌱 I’m currently learning advanced topics in Python, JavaScript, and exploring cloud technologies.
 - 👯 I’m looking to collaborate on open-source projects related to web development or innovative tech solutions.
 - 💬 Ask me about web development, Python/Django, Git, or anything tech-related! I'm always eager to learn and share knowledge.
-- 📫 How to reach me: You can connect with me via [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/sreyas-namboothiri-s-0a7873206/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with new recipes in my spare time!
 
