@@ -9,6 +9,9 @@ What I enjoy most is **problem-solving**. Now, I’m able to build full-stack we
 
 I've spent over **three years in the fintech industry** and am excited about what’s next!
 
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyasnamboothiris&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
