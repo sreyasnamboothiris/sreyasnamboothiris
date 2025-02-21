@@ -88,6 +88,9 @@ I've spent over **three years in the fintech industry** and am excited about wha
     <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" width="40" height="40"/>
     </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    </a>
 </p>
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's build awesome things together! 🚀
