@@ -20,7 +20,7 @@ I've spent over **three years in the fintech industry** and am excited about wha
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyasnamboothiris&show_icons=true&locale=en&layout=compact" alt="sreyasnamboothiris" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreyasnamboothiris&show_icons=true&locale=en" alt="sreyas" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreyasnamboothiris&" alt="sreyas" /></p>
+   <p><img align="center" src="https://streak-stats.demolab.com?user=sreyasnamboothiris" alt="sreyas" /></p>
 
 
 ## 🛠 Skills
